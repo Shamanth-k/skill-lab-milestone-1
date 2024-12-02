@@ -149,11 +149,12 @@ The server will be running on `http://localhost:3000`.
 2. Enter the URL: `http://localhost:3000/articles/1` (replace `1` with the desired article ID).
 3. Hit **Send** to retrieve the article by ID.
 
-## Optional: Persistence with `articles.json`
-If you want to persist the articles between server restarts, ensure that the `articles.json` file exists in the root directory of the project. The articles will be loaded from this file on server startup and saved back when new articles are added.
+
 
 ## License
-This project is licensed under the MIT License.
+## License
+This project is open-source and available for use, modification, and distribution by anyone. It is not explicitly licensed, but feel free to use it under the terms of the [MIT License](https://opensource.org/licenses/MIT) or any other open-source license of your choice.
+
 ```
 
 ### Steps to Save the `README.md`:
